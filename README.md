@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tedd-H
-- 👀 I’m interested in blockchain tech.andreoid dev with flutter and web development
+- 👀 I’m interested in blockchain tech.android dev with flutter and web development
 - 🌱 I’m currently learning about blockchain technology
 - 💞️ I’m looking to collaborate on a blockchain project tho not now😂😂
 - 📫 How to reach me: send an email to tedd.nyagaka@gmail.com
